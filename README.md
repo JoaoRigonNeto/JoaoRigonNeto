@@ -7,6 +7,27 @@
 - 💼 &nbsp; Trabalhando como **Desenvilvimento de Software e Hardware** na <a href="https://alexandria.solar/">Alexandria Solar</a>
 - 🌱 &nbsp; Aprendendo mais sobre **Machine Learning**.
 
+
+**Redes sociais**
+
+<a href="https://www.linkedin.com/in/joaoalceurigonneto/">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+<a href="https://mail.google.com/mail/u/0/?fs=1&to=joao.alceu.rigon@gmail.com&tf=cm">
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+
+
+<h3>📊 &nbsp;Worklog of this week</h3>
+
+<!--START_SECTION:waka-->
+```text
+Python       9 hrs 33 mins   ███████████████████████░░   91.95 % 
+JSON         50 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.05 % 
+```
+<!--END_SECTION:waka-->
+
+
 <h3> :rocket: &nbsp;Minhas Skills </h3>
 
 **Linguagens que utilizo**
@@ -35,39 +56,9 @@
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
 
-**OS**
-
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
-
-**DevOps**
-
-  ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-  ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-
 
  **Placas de prototipagem de embarcados**
  
  ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
  ![Raspberry Pi](https://img.shields.io/badge/-RaspberryPi-C51A4A?style=for-the-badge&logo=Raspberry-Pi)
 
-**Redes sociais**
-
-<a href="https://google.com">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-<a href="https://mail.google.com/mail/u/0/?fs=1&to=joao.alceu.rigon@gmail.com&tf=cm">
-<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
-
-<!--START_SECTION:waka-->
-```text
-Python       9 hrs 33 mins   ███████████████████████░░   91.95 % 
-JSON         50 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.05 % 
-```
-<!--END_SECTION:waka-->
-
-<br/>
-<a href="https://github.com/VanessaSwerts">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=VanessaSwerts&theme=dracula&show_icons=true" />
-</a>

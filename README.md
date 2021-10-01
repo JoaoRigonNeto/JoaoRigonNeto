@@ -1,4 +1,4 @@
-<h3>:man: &nbsp;About  </h3>
+<h3>:man: &nbsp;About  me:</h3>
 
 - 🤔 &nbsp; EExploring new technologies and developing new software and hardware solutions.
 - 🎓 &nbsp; Currently on my last period of **Computer Engineering** at <a href="https://www.up.edu.br/">Universidade Positivo</a>.

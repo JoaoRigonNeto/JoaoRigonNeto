@@ -1,14 +1,12 @@
-<!--<img align='right' src="https://github-readme-stats.vercel.app/api?username=JoaoRigonNeto&show_icons=true&title_color=783c00&text_color=af552e&icon_color=783c00&bg_color=f8efd4&cache_seconds=2300">-->
+<h3>:man: &nbsp;About  </h3>
 
-<h3>:man: &nbsp;Sobre mim </h3>
-
-- 🤔 &nbsp; Explorando novas tecnologias e desenvolvendo soluções de software e hardware.
-- 🎓 &nbsp; Estudando **Engenharia da Computação** no <a href="https://www.up.edu.br/">Universidade Positivo</a>.
-- 💼 &nbsp; Trabalhando como **Desenvilvimento de Software e Hardware** na <a href="https://alexandria.solar/">Alexandria Solar</a>
-- 🌱 &nbsp; Aprendendo mais sobre **Machine Learning**.
+- 🤔 &nbsp; EExploring new technologies and developing new software and hardware solutions.
+- 🎓 &nbsp; Currently on my last period of **Computer Engineering** at <a href="https://www.up.edu.br/">Universidade Positivo</a>.
+- 💼 &nbsp; Working as a **Junior software and hardware developer** at <a href="https://alexandria.solar/">Alexandria Solar</a>
+- 🌱 &nbsp; Learning more about **Machine Learning** and **Rust**.
 
 
-**Entre em contato comigo:**
+**Get in touch with me:**
 
 <a href="https://www.linkedin.com/in/joaoalceurigonneto/">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
@@ -30,7 +28,7 @@ Python       1 hr 44 mins    ███▒░░░░░░░░░░░░░
 
 <h3> :rocket: &nbsp;Minhas Skills </h3>
 
-**Linguagens que utilizo**
+**Languages I've worked with so far:**
 
 ![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
 ![Js](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
@@ -58,7 +56,7 @@ Python       1 hr 44 mins    ███▒░░░░░░░░░░░░░
 ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
 
 
- **Placas de prototipagem de embarcados**
+ **Embedded systems**
  
  ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
  ![Raspberry Pi](https://img.shields.io/badge/-RaspberryPi-C51A4A?style=for-the-badge&logo=Raspberry-Pi)

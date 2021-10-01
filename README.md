@@ -1,6 +1,6 @@
 <h3>:man: &nbsp;About  me:</h3>
 
-- 🤔 &nbsp; EExploring new technologies and developing new software and hardware solutions.
+- 🤔 &nbsp; Exploring new technologies and developing new software/hardware solutions.
 - 🎓 &nbsp; Currently on my last period of **Computer Engineering** at <a href="https://www.up.edu.br/">Universidade Positivo</a>.
 - 💼 &nbsp; Working as a **Junior software and hardware developer** at <a href="https://alexandria.solar/">Alexandria Solar</a>
 - 🌱 &nbsp; Learning more about **Machine Learning** and **Rust**.
@@ -26,7 +26,7 @@ Python       1 hr 44 mins    ███▒░░░░░░░░░░░░░
 <!--END_SECTION:waka-->
 
 
-<h3> :rocket: &nbsp;Minhas Skills </h3>
+<h3> :rocket: &nbsp;My skills </h3>
 
 **Languages I've worked with so far:**
 

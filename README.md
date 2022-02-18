@@ -20,9 +20,10 @@
 
 <!--START_SECTION:waka-->
 ```text
-Total: 15 hrs 59 mins
+Total: 13 hrs 8 mins
 
-Python       15 hrs 58 mins  █████████████████████████   99.91 % 
+Python       13 hrs 7 mins   █████████████████████████   99.62 % 
+Other        2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.28 % 
 ```
 <!--END_SECTION:waka-->
 

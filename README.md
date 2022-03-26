@@ -21,8 +21,8 @@
 <!--START_SECTION:waka-->
 
 ```text
-Python   9 hrs 8 mins    █████████████████████████   99.83 %
-Bash     0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.17 %
+Python   9 hrs 6 mins    █████████████████████████   99.59 %
+TOML     2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.41 %
 ```
 
 <!--END_SECTION:waka-->

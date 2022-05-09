@@ -1,7 +1,7 @@
 <h3>:man: &nbsp;About  me:</h3>
 
 - 🤔 &nbsp; Exploring new technologies and developing new software/hardware solutions.
-- 🎓 &nbsp; Currently on my last period of **Computer Engineering** at <a href="https://www.up.edu.br/">Universidade Positivo</a>.
+- 🎓 &nbsp; **Computer Engineer** graduated at <a href="https://www.up.edu.br/">Universidade Positivo</a>.
 - 💼 &nbsp; Working as a **Junior software and hardware developer** at <a href="https://alexandria.solar/">Alexandria Solar</a>
 - 🌱 &nbsp; Learning more about **Machine Learning** and **Rust**.
 
